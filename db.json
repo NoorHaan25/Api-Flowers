@@ -1,0 +1,226 @@
+{
+  "products": {
+    "baby-flowers": [
+      {
+        "id":1,
+        "title":"baby flowers purple",
+        "img":"./products/baby flowe/baby blue (1).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"baby-blue"
+      },
+      {
+        "id":2,
+        "title":"baby flowers purple",
+        "img":"./products/baby flowe/baby blue (2).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"baby-blue"
+      },
+      {
+        "id":3,
+        "title":"baby flowers purple",
+        "img":"./products/baby flowe/baby blue (3).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"baby-blue"
+      },
+      {
+        "id":4,
+        "title":"baby flowers purple",
+        "img":"./products/baby flowe/baby blue (4).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"baby-blue"
+      },
+      {
+        "id":5,
+        "title":"baby flowers purple",
+        "img":"./products/baby flowe/baby blue (5).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"baby-blue"
+      },
+      {
+        "id":6,
+        "title":"baby flowers Orange",
+        "img":"./products/baby flowe/orange (1).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"orange"
+      },
+      {
+        "id":7,
+        "title":"baby flowers Orange",
+        "img":"./products/baby flowe/orange (2).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"orange"
+      },
+      {
+        "id":8,
+        "title":"baby flowers Orange",
+        "img":"./products/baby flowe/orange (3).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"orange"
+      },
+      {
+        "id":9,
+        "title":"baby flowers Orange",
+        "img":"./products/baby flowe/orange (4).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"orange"
+      },
+      {
+        "id":10,
+        "title":"baby flowers Orange",
+        "img":"./products/baby flowe/orange (5).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"orange"
+      },
+      {
+        "id":11,
+        "title":"baby flowers Purple",
+        "img":"./products/baby flowe/purple (1).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"purple"
+      },
+      {
+        "id":12,
+        "title":"baby flowers Purple",
+        "img":"./products/baby flowe/purple (2).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"purple"
+      },
+      {
+        "id":13,
+        "title":"baby flowers Purple",
+        "img":"./products/baby flowe/purple (3).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"purple"
+      },
+      {
+        "id":14,
+        "title":"baby flowers Purple",
+        "img":"./products/baby flowe/purple (4).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"purple"
+      },
+      {
+        "id":15,
+        "title":"baby flowers Purple",
+        "img":"./products/baby flowe/purple (5).jpg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"purple"
+      },
+      {
+        "id":16,
+        "title":"baby flowers Red",
+        "img":"./products/baby flowe/red (1).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"red"
+      },
+      {
+        "id":17,
+        "title":"baby flowers Red",
+        "img":"./products/baby flowe/red (2).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"red"
+      },
+      {
+        "id":18,
+        "title":"baby flowers Red",
+        "img":"./products/baby flowe/red (3).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"red"
+      },
+      {
+        "id":19,
+        "title":"baby flowers Red",
+        "img":"./products/baby flowe/red (4).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"red"
+      },
+      {
+        "id":20,
+        "title":"baby flowers Red",
+        "img":"./products/baby flowe/red (5).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"red"
+      },
+      {
+        "id":21,
+        "title":"baby flowers Yellow",
+        "img":"./products/baby flowe/yellow (1).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"yellow"
+      },
+      {
+        "id":22,
+        "title":"baby flowers Yellow",
+        "img":"./products/baby flowe/yellow (1).jpeg",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "color":"yellow"
+      }
+    ]
+  }
+}
