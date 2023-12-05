@@ -3,8 +3,8 @@
     "baby-flowers": [
       {
         "id":1,
-        "title":"baby flowers purple",
-        "img":"./products/baby flowe/baby blue (1).jpg",
+        "title":"baby flowers baby blue",
+        "img":"./products/baby-flowers/baby-blue-1.jpg",
         "price":549,
         "discountPercentage":12.96,
         "rating":4.69,
@@ -13,8 +13,8 @@
       },
       {
         "id":2,
-        "title":"baby flowers purple",
-        "img":"./products/baby flowe/baby blue (2).jpg",
+        "title":"baby flowers baby blue",
+        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-2.jpg",
         "price":549,
         "discountPercentage":12.96,
         "rating":4.69,
@@ -23,8 +23,8 @@
       },
       {
         "id":3,
-        "title":"baby flowers purple",
-        "img":"./products/baby flowe/baby blue (3).jpg",
+        "title":"baby flowers baby blue",
+        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-3.jpg",
         "price":549,
         "discountPercentage":12.96,
         "rating":4.69,
@@ -33,8 +33,8 @@
       },
       {
         "id":4,
-        "title":"baby flowers purple",
-        "img":"./products/baby flowe/baby blue (4).jpg",
+        "title":"baby flowers baby blue",
+        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-4.jpg",
         "price":549,
         "discountPercentage":12.96,
         "rating":4.69,
@@ -43,8 +43,8 @@
       },
       {
         "id":5,
-        "title":"baby flowers purple",
-        "img":"./products/baby flowe/baby blue (5).jpg",
+        "title":"baby flowers baby blue",
+        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-5.jpg",
         "price":549,
         "discountPercentage":12.96,
         "rating":4.69,
