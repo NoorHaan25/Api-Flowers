@@ -1,226 +1,1095 @@
 {
-  "products": {
-    "baby-flowers": [
-      {
-        "id":1,
-        "title":"baby flowers baby blue",
-        "img":"./products/baby-flowers/baby-blue-1.jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"baby-blue"
-      },
-      {
-        "id":2,
-        "title":"baby flowers baby blue",
-        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-2.jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"baby-blue"
-      },
-      {
-        "id":3,
-        "title":"baby flowers baby blue",
-        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-3.jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"baby-blue"
-      },
-      {
-        "id":4,
-        "title":"baby flowers baby blue",
-        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-4.jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"baby-blue"
-      },
-      {
-        "id":5,
-        "title":"baby flowers baby blue",
-        "img":"https://greens-garden.onrender.com/img/products/baby-flowers/baby-blue-5.jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"baby-blue"
-      },
-      {
-        "id":6,
-        "title":"baby flowers Orange",
-        "img":"./products/baby flowe/orange (1).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"orange"
-      },
-      {
-        "id":7,
-        "title":"baby flowers Orange",
-        "img":"./products/baby flowe/orange (2).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"orange"
-      },
-      {
-        "id":8,
-        "title":"baby flowers Orange",
-        "img":"./products/baby flowe/orange (3).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"orange"
-      },
-      {
-        "id":9,
-        "title":"baby flowers Orange",
-        "img":"./products/baby flowe/orange (4).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"orange"
-      },
-      {
-        "id":10,
-        "title":"baby flowers Orange",
-        "img":"./products/baby flowe/orange (5).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"orange"
-      },
-      {
-        "id":11,
-        "title":"baby flowers Purple",
-        "img":"./products/baby flowe/purple (1).jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"purple"
-      },
-      {
-        "id":12,
-        "title":"baby flowers Purple",
-        "img":"./products/baby flowe/purple (2).jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"purple"
-      },
-      {
-        "id":13,
-        "title":"baby flowers Purple",
-        "img":"./products/baby flowe/purple (3).jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"purple"
-      },
-      {
-        "id":14,
-        "title":"baby flowers Purple",
-        "img":"./products/baby flowe/purple (4).jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"purple"
-      },
-      {
-        "id":15,
-        "title":"baby flowers Purple",
-        "img":"./products/baby flowe/purple (5).jpg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"purple"
-      },
-      {
-        "id":16,
-        "title":"baby flowers Red",
-        "img":"./products/baby flowe/red (1).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"red"
-      },
-      {
-        "id":17,
-        "title":"baby flowers Red",
-        "img":"./products/baby flowe/red (2).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"red"
-      },
-      {
-        "id":18,
-        "title":"baby flowers Red",
-        "img":"./products/baby flowe/red (3).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"red"
-      },
-      {
-        "id":19,
-        "title":"baby flowers Red",
-        "img":"./products/baby flowe/red (4).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"red"
-      },
-      {
-        "id":20,
-        "title":"baby flowers Red",
-        "img":"./products/baby flowe/red (5).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"red"
-      },
-      {
-        "id":21,
-        "title":"baby flowers Yellow",
-        "img":"./products/baby flowe/yellow (1).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"yellow"
-      },
-      {
-        "id":22,
-        "title":"baby flowers Yellow",
-        "img":"./products/baby flowe/yellow (1).jpeg",
-        "price":549,
-        "discountPercentage":12.96,
-        "rating":4.69,
-        "stock":94,
-        "color":"yellow"
-      }
-    ]
+  "products": [
+    {
+    "id":1,
+    "title":"Happy Anniversary Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/baby-blue-happy-anniversary.webp",
+    "price":540,
+    "discountPercentage":12.96,
+    "rating":4.5,
+    "stock":150,
+    "color":"baby-blue",
+    "category":"happy-anniversary",
+    "status":"new"
+  },
+  {
+    
+    "id":2,
+    "title":"Happy Anniversary Pink",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/Pink-happy-anniversary-1.webp",
+    "price":449,
+    "discountPercentage":12.96,
+    "rating":3.5,
+    "stock":90,
+    "color":"pink",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    "id":3,
+    "title":"Happy Anniversary Pink",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/Pink-happy-anniversary-2.webp",
+    "price":350,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":80,
+    "color":"pink",
+    "category":"happy-anniversary",
+    "status":"new"
   }
+  ,
+  {
+    
+    "id":4,
+    "title":"Happy Anniversary Red",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/red-happy-anniversary-1.jpeg",
+    "price":620,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":60,
+    "color":"red",
+    "category":"happy-anniversary",
+    "status":"old"
+  } ,
+  {
+    
+    "id":5,
+    "title":"Happy Anniversary Red",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/red-happy-anniversary-2.jpeg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":40,
+    "color":"red",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":6,
+    "title":"Happy Anniversary Orange",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/orange-happy-anniversary-1.jpeg",
+    "price":500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":20,
+    "color":"orange",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":7,
+    "title":"Happy Anniversary Orange",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/orange-happy-anniversary-2.webp",
+    "price":600,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":100,
+    "color":"orange",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":8,
+    "title":"Happy Anniversary Orange",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/orange-happy-anniversary-3.webp",
+    "price":700,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"happy-anniversary",
+    "status":"new"
+  },
+  {
+    
+    "id":9,
+    "title":"Happy Anniversary Purple",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/purple-happy-anniversary-1.jpg",
+    "price":800,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":84,
+    "color":"purple",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":10,
+    "title":"Happy Anniversary Purple",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/purple-happy-anniversary-2.jpg",
+    "price":1100,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":100,
+    "color":"purple",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":11,
+    "title":"Happy Anniversary Purple",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/purple-happy-anniversary-3.jpg",
+    "price":999,
+    "discountPercentage":12.96,
+    "rating":2.69,
+    "stock":110,
+    "color":"purple",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":12,
+    "title":"Happy Anniversary Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/yellow-happy-anniversary.jpeg",
+    "price":500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":13,
+    "title":"Happy Anniversary Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/happy-anniversary/yellow-happy-anniversary.jpg",
+    "price":600,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":90,
+    "color":"yellow",
+    "category":"happy-anniversary",
+    "status":"old"
+  },
+  {
+    
+    "id":14,
+    "title":"Wedding Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/baby-blue-1.jpg",
+    "price":400,
+    "discountPercentage":12.96,
+    "rating":4.69,
+    "stock":80,
+    "color":"baby-blue",
+    "category":"wedding",
+    "status":"new"
+  },
+  {
+    
+    "id":15,
+    "title":"Wedding Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/baby-blue-2.jpg",
+    "price":300,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":70,
+    "color":"baby-blue",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":16,
+    "title":"Wedding Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/baby-blue-3.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":60,
+    "color":"baby-blue",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":17,
+    "title":"Wedding Orange",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/orange-wedding-1.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":4.69,
+    "stock":50,
+    "color":"orange",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":18,
+    "title":"Wedding Orange",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/orange-wedding-2.jpg",
+    "price":1200,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":19,
+    "title":"Wedding Pink",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/pink-wedding-1.jpg",
+    "price":1300,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":40,
+    "color":"pink",
+    "category":"wedding",
+    "status":"new"
+  },
+  {
+    
+    "id":20,
+    "title":"Wedding Pink",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/pink-wedding-2.jpg",
+    "price":1600,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":30,
+    "color":"pink",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":21,
+    "title":"Wedding Pink",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/pink-wedding-3.jpg",
+    "price":1600,
+    "discountPercentage":12.96,
+    "rating":4.69,
+    "stock":94,
+    "color":"pink",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":22,
+    "title":"Wedding Pink",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/pink-wedding-4.jpg",
+    "price":900,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":80,
+    "color":"pink",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":23,
+    "title":"Wedding Purple",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/purple-wedding-1.jpg",
+    "price":900,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":20,
+    "color":"purple",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":24,
+    "title":"Wedding Purple",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/purple-wedding-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":30,
+    "color":"purple",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":25,
+    "title":"Wedding Purple",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/purple-wedding-3.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":40,
+    "color":"purple",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":26,
+    "title":"Wedding Red",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/red-wedding-1.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":50,
+    "color":"red",
+    "category":"wedding",
+    "status":"new"
+  },
+  {
+    
+    "id":27,
+    "title":"Wedding Red",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/red-wedding-2.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":4.69,
+    "stock":60,
+    "color":"red",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":28,
+    "title":"Wedding Red",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/red-wedding-3.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":70,
+    "color":"red",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":29,
+    "title":"Wedding Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/Wedding/yellow-wedding-1.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":80,
+    "color":"yellow",
+    "category":"wedding",
+    "status":"old"
+  },
+  {
+    
+    "id":30,
+    "title":"Happy Birthday Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/baby-blue-birthday-1.jpg",
+    "price":1600,
+    "discountPercentage":12.96,
+    "rating":2.69,
+    "stock":90,
+    "color":"baby-blue",
+    "category":"happy-birthday",
+    "status":"new"
+  },
+  {
+    
+    "id":31,
+    "title":"Happy Birthday Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/baby-blue-birthday-2.jpg",
+    "price":1300,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":120,
+    "color":"baby-blue",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":32,
+    "title":"Happy Birthday Orange",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/orange-birthday-1.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":150,
+    "color":"orange",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":33,
+    "title":"Happy Birthday Orange",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/orange-birthday-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":160,
+    "color":"orange",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":34,
+    "title":"Happy Birthday Pink",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/pink-birthday-1.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":130,
+    "color":"pink",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":35,
+    "title":"Happy Birthday Pink",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/pink-birthday-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":180,
+    "color":"pink",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":36,
+    "title":"Happy Birthday Pink",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/pink-birthday-3.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":4.69,
+    "stock":110,
+    "color":"pink",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":37,
+    "title":"Happy Birthday Purple",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/purple-birthday-1.jpg",
+    "price":1300,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":90,
+    "color":"purple",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":38,
+    "title":"Happy Birthday Purple",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/purple-birthday-2.jpg",
+    "price":1400,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":80,
+    "color":"purple",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":39,
+    "title":"Happy Birthday Purple",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/purple-birthday-3.jpg",
+    "price":1400,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":60,
+    "color":"purple",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":40,
+    "title":"Happy Birthday Purple",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/purple-birthday-4.jpg",
+    "price":1100,
+    "discountPercentage":12.96,
+    "rating":4.69,
+    "stock":50,
+    "color":"purple",
+    "category":"happy-birthday",
+    "status":"new"
+  },
+  {
+    
+    "id":41,
+    "title":"Happy Birthday Red",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/red-birthday-1.jpg",
+    "price":1100,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":40,
+    "color":"red",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":42,
+    "title":"Happy Birthday Red",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/red-birthday-2.jpg",
+    "price":900,
+    "discountPercentage":12.96,
+    "rating":2.69,
+    "stock":94,
+    "color":"red",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":43,
+    "title":"Happy Birthday Orange",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/orange-birthday-1.jpg",
+    "price":900,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":44,
+    "title":"Happy Birthday Orange",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/orange-birthday-2.jpg",
+    "price":800,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"happy-birthday",
+    "status":"new"
+  },
+  {
+    
+    "id":45,
+    "title":"Happy Birthday Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/yellow-birthday-1.jpg",
+    "price":2000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":90,
+    "color":"yellow",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":46,
+    "title":"Happy Birthday Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/yellow-birthday-2.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":60,
+    "color":"yellow",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":47,
+    "title":"Happy Birthday Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/happy-birthday/yellow-birthday-3.jpg",
+    "price":1600,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":80,
+    "color":"yellow",
+    "category":"happy-birthday",
+    "status":"old"
+  },
+  {
+    
+    "id":48,
+    "title":"Congratulation Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/baby-blue-cong-1.webp",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"baby-blue",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":49,
+    "title":"Congratulation Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/baby-blue-cong-2.webp",
+    "price":100,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"baby-blue",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":50,
+    "title":"Congratulation Orange",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/orange-cong-1.webp",
+    "price":1300,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":90,
+    "color":"orange",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":51,
+    "title":"Congratulation Pink",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/pink-cong-1.jpeg",
+    "price":1400,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"pink",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":52,
+    "title":"Congratulation Pink",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/pink-cong-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"pink",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":53,
+    "title":"Congratulation Purple",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/purple-cong-1.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"purple",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":54,
+    "title":"Congratulation Purple",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/purple-cong-2.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"purple",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":55,
+    "title":"Congratulation Red",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/red-cong-1.jpg",
+    "price":1250,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"red",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":56,
+    "title":"Congratulation Red",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/red-cong-2.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"red",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":57,
+    "title":"Congratulation Red",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/red-cong-3.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"red",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":58,
+    "title":"Congratulation Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/congratulation/yellow.cong-1.jpg",
+    "price":900,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"congratulation",
+    "status":"old"
+  },
+  {
+    
+    "id":59,
+    "title":"Love You Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/baby-blue-love-1.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"baby-blue",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":60,
+    "title":"Love You Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/baby-blue-love-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"baby-blue",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":61,
+    "title":"Love You Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/baby-blue-love-3.jpg",
+    "price":1200,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"baby-blue",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":62,
+    "title":"Love You Orange",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/orange-love-1.jpg",
+    "price":800,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":63,
+    "title":"Love You Orange",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/orange-love-2.jpg",
+    "price":1600,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":64,
+    "title":"Love You Orange",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/orange-love-3.jpg",
+    "price":1200,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":65,
+    "title":"Love You Pink",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/pink-love-1.jpg",
+    "price":1200,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"pink",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":66,
+    "title":"Love You Pink",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/pink-love-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"pink",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":67,
+    "title":"Love You Purple",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/purple-loeve-1.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"purple",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":68,
+    "title":"Love You Purple",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/purple-loeve-2.jpg",
+    "price":1500,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"purple",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":69,
+    "title":"Love You Red",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/red-love-1.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"red",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":70,
+    "title":"Love You Red",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/red-love-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"red",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":71,
+    "title":"Love You Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/yellow-love-1.jpg",
+    "price":800,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":72,
+    "title":"Love You Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/i-love-you/yellow-love-2.jpg",
+    "price":800,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"love-you",
+    "status":"old"
+  },
+  {
+    
+    "id":73,
+    "title":"Thank You Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/baby-blue-thankyou-1.jpg",
+    "price":700,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":74,
+    "title":"Thank You Baby Blue",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/baby-blue-thankyou-2.jpg",
+    "price":700,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":75,
+    "title":"Thank You Orange",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/orange-thankyou-1.jpg",
+    "price":800,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":76,
+    "title":"Thank You Orange",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/orange-thankyou-2.jpg",
+    "price":800,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"orange",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":77,
+    "title":"Thank You Pink",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/pink-thankyou-1.jpg",
+    "price":900,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"pink",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":78,
+    "title":"Thank You Pink",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/pink-thankyou-2.jpg",
+    "price":900,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"pink",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":79,
+    "title":"Thank You Purple",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/purple-thankyou-1.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"purple",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":80,
+    "title":"Thank You Purple",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/purple-thankyou-2.jpg",
+    "price":1000,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"purple",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":81,
+    "title":"Thank You Red",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/red-thankyou-1.jpg",
+    "price":1100,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"red",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":82,
+    "title":"Thank You Red",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/red-thankyou-2.jpg",
+    "price":1200,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"red",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":83,
+    "title":"Thank You Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/yellow-thankyou-1.jpg",
+    "price":700,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"thank-you",
+    "status":"old"
+  },
+  {
+    
+    "id":84,
+    "title":"Thank You Yellow",
+    "img":"https://greens-garden.onrender.com/img/products/thank-you/yellow-thankyou-2.jpg",
+    "price":700,
+    "discountPercentage":12.96,
+    "rating":3.69,
+    "stock":94,
+    "color":"yellow",
+    "category":"thank-you",
+    "status":"old"
+  }
+]
 }
